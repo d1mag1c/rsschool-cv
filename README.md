@@ -1,1 +1,1 @@
-https://d1mag1c.github.io/rsschool-cv/cv
+https://d1mag1c.github.io/rsschool-cv/
