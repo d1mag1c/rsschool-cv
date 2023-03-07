@@ -7,12 +7,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#contacts">Contacts</a></li>
-    <li><a href="#about_me">About me</a></li>
+    <li><a href="#about me">About me</a></li>
     <li><a href="#skills">Skills</a></li>
-    <li><a href="#code_examples">Code examples</a></li>
+    <li><a href="#code examples">Code examples</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#education">Education</a></li>
-    <li><a href="#english_language">English language</a></li>
+    <li><a href="#english language">English language</a></li>
   </ol>
 </details>
 
