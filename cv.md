@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Зайцев Дмитрий</h1>
+<h1>Dzmitry Zaitsau</h1>
 </div>
 <hr/>
 
